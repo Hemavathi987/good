@@ -11,7 +11,7 @@ namespace demo
             Console.WriteLine("Enter second Number ");
             int b= Convert.ToInt32(Console.ReadLine());
             //Arithmetic
-            Console.WriteLine("    ");
+            Console.WriteLine("  12345678  ");
             Console.WriteLine("*******Arithmetic******");
             Console.WriteLine("Addition ="+ (a+b));//addition
             Console.WriteLine("Subtraction ="+ (a-b));//subtraction
